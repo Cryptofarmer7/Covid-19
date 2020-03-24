@@ -1,7 +1,8 @@
 # Covid-19
 ## About 
 Covid-19 Tracker, adalah alat untuk melihat penyebaran kasus Corona atau Covid-19 di Indonesia dan Negara-negara lain yang terdampak Virus ini.<br/><br/>
-Untuk Melihat Demo <a href="https://reidhosatria.000webhostapp.com/">Disini</a>
+Untuk Melihat Demo <a href="https://reidhosatria.000webhostapp.com/">Disini</a><br/>
+Untuk Versi Android App <a href="https://files.appsgeyser.com/Covid19%20Tracker%20Indonesia_10458795.apk?dl=true">Disini</a>
 ## Api
 + api.kawalcorona.com
 ## Screnshoot
