@@ -7,7 +7,8 @@
 @import url('https://fonts.googleapis.com/css?family=Khand&display=swap');
 html {
     font-family: 'Khand', sans-serif;
-	overflow: hidden;
+	overflow-y: hidden;
+	overflow-x: hidden;
 }
 table, td, th {  
     border: 1px solid #ddd;
