@@ -149,7 +149,7 @@ echo "<table>
 	  <th>Kematian      </th>
   </tr>";
 ?>
-<?php for ($i=1; $i < $page; $i++) { ?>
+<?php for ($i=0; $i < $page; $i++) { ?>
   <tr>
       <td><?php echo  $json2[0]['countryCode'];           ?></td>
       <td><?php echo  $json2[0]['countryName'];         ?></td>
