@@ -4,7 +4,6 @@ Covid-19 Tracker, adalah alat untuk melihat penyebaran kasus Corona atau Covid-1
 Untuk Melihat Demo <a href="https://reidhosatria.000webhostapp.com/">Disini</a>
 ## Api
 + api.kawalcorona.com
-+ api.n45ht.or.id
 ## Screnshoot
 <p align="center">
   <img src="https://raw.githubusercontent.com/reidhosatria/Covid-19/master/screenshot/home.png" /><br/>
